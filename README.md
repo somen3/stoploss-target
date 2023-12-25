@@ -33,11 +33,4 @@ This script automates the setup of a keyboard shortcut in XFCE to calculate and 
 4. The results will be displayed in a graphical interface and saved to `~/.conky/NeatInfo/addons/note.txt`.
 5. NeatInfo Conky theme link: [Download.](https://github.com/somen3/NeatInfo/releases/download/conky/NeatInfo.zip)
 
-## Note
 
-- Ensure that XFCE is the active desktop environment for proper shortcut setup and execution.
-- If the script encounters any issues or if any input is canceled, it will prompt the user for necessary actions.
-
----
-
-Feel free to tailor this README to add more specific details or instructions if needed!
